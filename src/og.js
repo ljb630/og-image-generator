@@ -1,6 +1,7 @@
 import { Resvg } from "@resvg/resvg-js";
 import { getAbsolutePath } from "./utils.js";
 
+
 /**
  * Generates SVG of OG image based on configuratiion
  * @param {bool} isDark If theme is dark. Defines background color and glow effect
